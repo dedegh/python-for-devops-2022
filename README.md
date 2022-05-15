@@ -5,9 +5,9 @@ From Zero to Ninja
 
 ## Create a project scaffold
 
-### Colab Notebook
 
-### Github CodeSpaces
+
+### Colab Notebook
 
 ### AWS Cloudshell
 
@@ -16,3 +16,6 @@ From Zero to Ninja
 ### Command-Line Tools
 
 ## Microservices
+
+1. Create a virtualenv: `virtualenvn ~/.venv`
+2. Edit my `~/.bashrc` `source ~/.venv/bin/activate`
